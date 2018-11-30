@@ -2,5 +2,5 @@
 
 Hi! GitHub People
 
-Saksham here, I like tech
+Saksham here, I like tech.
 New to GitHub...
